@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/janedmello/jane_template/_apis/build/status/janedmello123.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/janedmello/jane_template/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
